@@ -4,7 +4,7 @@ public class Zadacha {
     public static void main(String[]args){
         Scanner input = new Scanner(System.in);
       float z;
-      System.out.println("Введите первое число");
+      System.out.println("Начнем сравнение с числом 20 \n Введите первое число");
         z=input.nextFloat();
         float w;
         System.out.println("Введите второе число");
